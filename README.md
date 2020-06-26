@@ -14,4 +14,4 @@ Diana Valentina Uscategui Tobo 20172020063
 
 Se utilizo objetos decoradores para hacer mas amigable el login para el usuario.
 
-![Login de Twitter](link) 
+![Login de Twitter](https://github.com/valentinatobo/Objetos-Decoradores-C3/blob/master/resources/img/Loginobjetosdecoradores.PNG) 
